@@ -1,5 +1,4 @@
-setwd("C://Users//eraumrq//Documents//Gestion//Curso Data Scientist//Curso3_Exam")
-
+### Script for proccessing UCI HAR Dataset
 library(dplyr)
 
 # Reading Labels for: Features and Activities
